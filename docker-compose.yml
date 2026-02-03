@@ -1,0 +1,45 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: development
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: development
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+      - ./data:/app/data
+    environment:
+      - DATABASE_URL=sqlite+aiosqlite:///./data/worshipflow.db
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - YOUTUBE_API_KEY=${YOUTUBE_API_KEY:-}
+      - JWT_SECRET=${JWT_SECRET:-dev-secret-key}
+      - DEBUG=true
+      - CORS_ORIGINS=http://localhost:3000,http://localhost:5173
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+networks:
+  default:
+    name: worshipflow-dev

@@ -1,0 +1,150 @@
+{
+  "translations": [
+    {
+      "original_title": "Reckless Love",
+      "original_artist": "Cory Asbury",
+      "korean_title": "주의 사랑이 나를 놓지 않네",
+      "korean_artist": "코리 아스뷰리",
+      "notes": "가장 널리 불리는 한국어 버전"
+    },
+    {
+      "original_title": "What A Beautiful Name",
+      "original_artist": "Hillsong Worship",
+      "korean_title": "아름다우신",
+      "korean_artist": "힐송 워십",
+      "notes": "공식 한국어 번안"
+    },
+    {
+      "original_title": "Good Good Father",
+      "original_artist": "Chris Tomlin",
+      "korean_title": "좋으신 하나님",
+      "korean_artist": "크리스 톰린",
+      "notes": "여러 버전 존재"
+    },
+    {
+      "original_title": "Holy Spirit",
+      "original_artist": "Francesca Battistelli",
+      "korean_title": "성령이여 오소서",
+      "korean_artist": "프란체스카 바티스텔리",
+      "notes": null
+    },
+    {
+      "original_title": "Way Maker",
+      "original_artist": "Sinach",
+      "korean_title": "웨이 메이커",
+      "korean_artist": "시나크",
+      "notes": "음역 표기 사용"
+    },
+    {
+      "original_title": "Build My Life",
+      "original_artist": "Passion",
+      "korean_title": "내 삶을 드리리",
+      "korean_artist": "패션",
+      "notes": null
+    },
+    {
+      "original_title": "10,000 Reasons (Bless the Lord)",
+      "original_artist": "Matt Redman",
+      "korean_title": "만 가지 이유",
+      "korean_artist": "맷 레드먼",
+      "notes": "새벽예배에 자주 사용"
+    },
+    {
+      "original_title": "Oceans (Where Feet May Fail)",
+      "original_artist": "Hillsong United",
+      "korean_title": "오션스",
+      "korean_artist": "힐송 유나이티드",
+      "notes": "음역 표기, 한국어 가사 버전도 존재"
+    },
+    {
+      "original_title": "Great Are You Lord",
+      "original_artist": "All Sons & Daughters",
+      "korean_title": "위대하신 주",
+      "korean_artist": "올 선즈 앤 도터스",
+      "notes": null
+    },
+    {
+      "original_title": "Who You Say I Am",
+      "original_artist": "Hillsong Worship",
+      "korean_title": "주님이 말씀하시네",
+      "korean_artist": "힐송 워십",
+      "notes": null
+    },
+    {
+      "original_title": "King of Kings",
+      "original_artist": "Hillsong Worship",
+      "korean_title": "왕의 왕",
+      "korean_artist": "힐송 워십",
+      "notes": null
+    },
+    {
+      "original_title": "The Blessing",
+      "original_artist": "Kari Jobe, Cody Carnes",
+      "korean_title": "축복송",
+      "korean_artist": "카리 조브",
+      "notes": "여러 한국어 버전 존재"
+    },
+    {
+      "original_title": "Graves Into Gardens",
+      "original_artist": "Elevation Worship",
+      "korean_title": "무덤을 정원으로",
+      "korean_artist": "엘리베이션 워십",
+      "notes": null
+    },
+    {
+      "original_title": "Raise a Hallelujah",
+      "original_artist": "Bethel Music",
+      "korean_title": "할렐루야를 높이세",
+      "korean_artist": "베델 뮤직",
+      "notes": null
+    },
+    {
+      "original_title": "Goodness of God",
+      "original_artist": "Bethel Music",
+      "korean_title": "하나님의 선하심",
+      "korean_artist": "베델 뮤직",
+      "notes": null
+    },
+    {
+      "original_title": "Amazing Grace",
+      "original_artist": "John Newton",
+      "korean_title": "나 같은 죄인 살리신",
+      "korean_artist": "찬송가 405장",
+      "notes": "새찬송가"
+    },
+    {
+      "original_title": "How Great Thou Art",
+      "original_artist": "Carl Boberg",
+      "korean_title": "주 하나님 지으신 모든 세계",
+      "korean_artist": "찬송가 79장",
+      "notes": "새찬송가"
+    },
+    {
+      "original_title": "Nearer My God to Thee",
+      "original_artist": "Sarah F. Adams",
+      "korean_title": "내 주를 가까이 하게 함은",
+      "korean_artist": "찬송가 338장",
+      "notes": "새찬송가"
+    },
+    {
+      "original_title": "It Is Well With My Soul",
+      "original_artist": "Horatio Spafford",
+      "korean_title": "내 영혼이 은총 입어",
+      "korean_artist": "찬송가 413장",
+      "notes": "새찬송가"
+    },
+    {
+      "original_title": "Here I Am to Worship",
+      "original_artist": "Tim Hughes",
+      "korean_title": "여기에 내가 경배해",
+      "korean_artist": "팀 휴즈",
+      "notes": null
+    }
+  ],
+  "key_mapping_notes": "번안곡의 경우 원곡과 다른 키로 부르는 경우가 많음. 한국 교회에서는 보통 원곡보다 낮은 키 선호.",
+  "common_key_adjustments": [
+    { "original_key": "E", "korean_preferred_key": "D", "reason": "보컬 음역대 고려" },
+    { "original_key": "B", "korean_preferred_key": "A", "reason": "연주 편의성" },
+    { "original_key": "Eb", "korean_preferred_key": "D", "reason": "기타 카포 사용" }
+  ]
+}

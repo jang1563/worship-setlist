@@ -1,0 +1,46 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: production
+    ports:
+      - "80:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: production
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - DATABASE_URL=sqlite+aiosqlite:///./data/worshipflow.db
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - JWT_SECRET=${JWT_SECRET}
+      - JWT_ALGORITHM=HS256
+      - JWT_EXPIRATION_MINUTES=10080
+      - DEBUG=false
+      - CORS_ORIGINS=http://localhost,https://worshipflow.app
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+networks:
+  default:
+    name: worshipflow-prod

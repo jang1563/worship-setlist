@@ -1,0 +1,35 @@
+name: worshipflow
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - nodejs=20
+  - pip:
+    # Web Framework
+    - fastapi
+    - uvicorn[standard]
+    - python-multipart
+    # Database
+    - sqlalchemy
+    - aiosqlite
+    # Validation
+    - pydantic
+    - pydantic-settings
+    # Authentication
+    - python-jose[cryptography]
+    - passlib[bcrypt]
+    # AI
+    - anthropic
+    # Utilities
+    - python-dotenv
+    - httpx
+    # Rate Limiting
+    - slowapi
+    # Export
+    - python-pptx
+    # Testing
+    - pytest
+    - pytest-asyncio
+    - httpx

@@ -1,0 +1,11 @@
+# Test dependencies for WorshipFlow Backend
+-r requirements.txt
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+
+# Type checking (optional)
+mypy

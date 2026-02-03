@@ -1,0 +1,144 @@
+{
+  "chord_charts": [
+    {
+      "song_id": 1,
+      "key": "G",
+      "source": "community",
+      "confidence": 95,
+      "chordpro_content": "{title: 주의 사랑이 나를 놓지 않네}\n{artist: Cory Asbury}\n{key: G}\n\n{comment: Verse 1}\n[G]Before I spoke a word You were singing over [C]me\n[Em]You have been so so good to [D]me\n[G]Before I took a breath You breathed Your life in [C]me\n[Em]You have been so so [D]kind to me\n\n{comment: Chorus}\n[G]Oh the overwhelming never-ending [C]reckless love of God\n[Em]Oh it chases me down fights til I'm [D]found\nLeaves the ninety-[G]nine\n\n[G]주의 사랑이 나를 놓지 [C]않네\n[Em]그 사랑이 나를 감싸 [D]안네\n[G]99마리를 두고 나 한마리 [C]찾아\n[Em]달려오신 주의 [D]사랑 [G]"
+    },
+    {
+      "song_id": 2,
+      "key": "D",
+      "source": "community",
+      "confidence": 95,
+      "chordpro_content": "{title: 아름다우신}\n{artist: Hillsong Worship}\n{key: D}\n\n{comment: Verse 1}\n[D]You were the Word at the beginning\n[A/C#]One with God the Lord Most [Bm7]High\n[G]Your hidden glory in creation\n[D/F#]Now revealed in [A]You our [D]Christ\n\n{comment: Chorus}\n[D]What a beautiful [A]Name it is\n[Bm7]What a beautiful [G]Name it is\nThe Name of [D]Jesus [A]Christ my [Bm7]King [G]\n\n[D]아름다우신 주 [A]이름\n[Bm7]아름다우신 주 [G]이름\n[D]예수 그리스[A]도 나의 [Bm7]왕 [G]"
+    },
+    {
+      "song_id": 3,
+      "key": "G",
+      "source": "community",
+      "confidence": 95,
+      "chordpro_content": "{title: 좋으신 하나님}\n{artist: Chris Tomlin}\n{key: G}\n\n{comment: Verse 1}\n[G]I've heard a thousand stories\nOf what they think You're [D/F#]like\n[Em7]But I've heard the tender whisper\nOf love in the dead of [C]night\n\n{comment: Chorus}\n[G]You're a good good [D]Father\n[Em7]It's who You are [C]It's who You are\n[G]And I'm loved by [D]You\n[Em7]It's who I am [C]It's who I am\n\n{comment: 한국어}\n[G]좋으신 하나[D]님\n[Em7]언제나 좋으[C]신 분\n[G]나를 사랑하[D]시네\n[Em7]그래서 나는 주의 [C]자녀"
+    },
+    {
+      "song_id": 4,
+      "key": "C",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: 10,000 Reasons (Bless the Lord)}\n{artist: Matt Redman}\n{key: C}\n\n{comment: Chorus}\n[C]Bless the Lord O my [G]soul\n[Am7]O my [F]soul\n[C]Worship His holy [G]name\n[F]Sing like never be[Am7]fore\n[G]O my [F]soul\nI'll [C/E]worship Your ho[F]ly [C]name\n\n{comment: Verse 1}\n[C]The sun comes up it's a new day [G]dawning\n[Am7]It's time to sing Your song a[F]gain\n[C]Whatever may pass and whatever lies be[G]fore me\n[Am7]Let me be singing when the [F]evening [C]comes"
+    },
+    {
+      "song_id": 5,
+      "key": "E",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: Way Maker}\n{artist: Sinach}\n{key: E}\n\n{comment: Verse}\n[E]You are here moving in our midst\nI worship [B]You I worship [C#m]You\n[A]You are here working in this place\nI worship [E]You I worship [B]You\n\n{comment: Chorus}\n[E]Way maker miracle [B]worker\n[C#m]Promise keeper light in the [A]darkness\nMy God [E]that is who You [B]are [C#m] [A]\n\n{comment: 한국어 Chorus}\n[E]길을 만드시[B]네\n[C#m]기적을 행하시[A]네\n[E]약속을 지키시[B]네\n[C#m]어둠 속의 [A]빛"
+    },
+    {
+      "song_id": 6,
+      "key": "G",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: Oceans (Where Feet May Fail)}\n{artist: Hillsong United}\n{key: G}\n\n{comment: Verse 1}\n[G]You call me out upon the [D]waters\n[Em]The great unknown where feet may [C]fail\n[G]And there I find You in the [D]mystery\n[Em]In oceans deep my faith will [C]stand\n\n{comment: Chorus}\n[G]And I will call upon Your [D]name\n[Em]And keep my eyes above the [C]waves\n[G]When oceans rise my soul will [D]rest\n[Em]In Your embrace for I am [C]Yours\n[G]And You are [D]mine [Em] [C]"
+    },
+    {
+      "song_id": 7,
+      "key": "A",
+      "source": "community",
+      "confidence": 85,
+      "chordpro_content": "{title: Cornerstone}\n{artist: Hillsong Worship}\n{key: A}\n\n{comment: Verse 1}\n[A]My hope is built on nothing less\n[D]Than Jesus blood and [A]righteousness\n[A]I dare not trust the sweetest frame\n[D]But wholly trust in [E]Jesus name\n\n{comment: Chorus}\n[A]Christ alone [D]Cornerstone\n[A]Weak made strong in the [E]Savior's love\n[A]Through the storm [D]He is Lord\n[A]Lord of [E]all [A]"
+    },
+    {
+      "song_id": 8,
+      "key": "D",
+      "source": "community",
+      "confidence": 85,
+      "chordpro_content": "{title: This Is Amazing Grace}\n{artist: Phil Wickham}\n{key: D}\n\n{comment: Verse 1}\n[D]Who breaks the power of sin and darkness\n[A]Whose love is mighty and so much stronger\n[Bm7]The King of Glory [G]the King above all kings\n\n{comment: Chorus}\n[D]This is amazing [A]grace\n[Bm7]This is unfailing [G]love\n[D]That You would take my [A]place\n[Bm7]That You would bear my [G]cross"
+    },
+    {
+      "song_id": 9,
+      "key": "G",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: 은혜 (Grace)}\n{artist: 박지현}\n{key: G}\n\n{comment: Verse 1}\n[G]날 향한 주의 사랑에\n[D]감사를 드려요\n[Em7]내 맘의 중심 주님께\n[C]드리기 [D]원해\n\n{comment: Chorus}\n[G]은혜라 주님의 [D]은혜라\n[Em7]나 같은 죄인 살리[C]신\n[G]십자가의 [D]은혜라\n[Em7]사랑해요 [C]예수[G]님"
+    },
+    {
+      "song_id": 10,
+      "key": "C",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: 주 품에 품으소서}\n{artist: 어노인팅}\n{key: C}\n\n{comment: Verse}\n[C]주 품에 [G/B]품으소서\n[Am7]주 안에 [Em]거하리\n[F]주 날 [C/E]안으시고\n[Dm7]주 날 [G]품으소서\n\n{comment: Chorus}\n[C]주님만 의[G/B]지합니다\n[Am7]주님만 경[Em]배합니다\n[F]주님만 사[C/E]랑합니다\n[Dm7]주님만 [G]나의 [C]전부"
+    },
+    {
+      "song_id": 11,
+      "key": "D",
+      "source": "community",
+      "confidence": 85,
+      "chordpro_content": "{title: 예수 그 이름}\n{artist: 마커스워십}\n{key: D}\n\n{comment: Verse}\n[D]예수 [A]그 이름\n[Bm7]능력의 [G]이름\n[D]천하 [A]인간에\n[Bm7]구원 얻을 [G]이름\n\n{comment: Chorus}\n[D]예수 예수 [A]예수\n[Bm7]권능의 [G]이름\n[D]예수 예수 [A]예수\n[Bm7]영광의 [G]이름 [D]"
+    },
+    {
+      "song_id": 12,
+      "key": "G",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: 내가 매일 기쁘게}\n{artist: 소원 (이영훈)}\n{key: G}\n\n{comment: Verse}\n[G]내가 매일 [D]기쁘게\n[Em]순종하며 살[C]리라\n[G]내가 매일 [D]감사해\n[Em]찬양하며 살[C]리라\n\n{comment: Chorus}\n[G]할렐루야 [D]할렐루야\n[Em]나를 구원 하[C]셨네\n[G]할렐루야 [D]할렐루야\n[Em]영원히 감[C]사해 [G]"
+    },
+    {
+      "song_id": 13,
+      "key": "D",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: 주의 음성을 내가 들으니}\n{artist: 찬송가 540장}\n{key: D}\n\n{comment: Verse 1}\n[D]주의 음성을 내가 들으니\n[A7]나를 부르는 [D]소리로다\n[G]광야에서 헤매[D]이던 몸을\n[A7]주께 인도하여 주[D]셨도다\n\n{comment: Chorus}\n[D]주 예수를 따라 [A7]가며\n[D]날마다 [G]따라 [D]가며\n[G]진리와 [D]생명 되신 예[A7]수\n[D]나의 [A7]주 [D]따르리"
+    },
+    {
+      "song_id": 14,
+      "key": "E",
+      "source": "community",
+      "confidence": 85,
+      "chordpro_content": "{title: 여호와 닛시}\n{artist: 마커스워십}\n{key: E}\n\n{comment: Verse}\n[E]여호와 [B]닛시\n[C#m]나의 [A]승리\n[E]전쟁은 [B]여호와께\n[C#m]속하였[A]네\n\n{comment: Chorus}\n[E]두렵지 [B]않네\n[C#m]흔들리지 [A]않네\n[E]주님이 [B]나와 함께\n[C#m]하시[A]니 [E]"
+    },
+    {
+      "song_id": 15,
+      "key": "G",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: 예수 나의 첫사랑 되시네}\n{artist: 어노인팅}\n{key: G}\n\n{comment: Verse}\n[G]예수 나의 [D]첫사랑 되시네\n[Em7]영원토록 [C]나의 왕 되시네\n[G]내 삶의 [D]이유 되시네\n[Em7]예수 나의 [C]모든 것 [G]되시네\n\n{comment: Bridge}\n[G]주님은 [D]선한 목자\n[Em7]푸른 초장으[C]로\n[G]쉴 만한 [D]물가에 나를\n[Em7]인도하시[C]네 [G]"
+    },
+    {
+      "song_id": 16,
+      "key": "C",
+      "source": "community",
+      "confidence": 85,
+      "chordpro_content": "{title: 주만 바라볼찌라}\n{artist: 천관웅 목사}\n{key: C}\n\n{comment: Verse}\n[C]주만 바라볼찌[G]라\n[Am]주만 의지할찌[F]라\n[C]내 삶에 모든 것 [G]주신\n[F]주만 [G]찬양할[C]지라\n\n{comment: Chorus}\n[F]두렵지 [C]않네\n[Am]흔들리지 [Em]않네\n[F]주님이 [C]함께하시니\n[F]두렵지 [G]않[C]네"
+    },
+    {
+      "song_id": 17,
+      "key": "A",
+      "source": "community",
+      "confidence": 85,
+      "chordpro_content": "{title: Build My Life}\n{artist: Housefires}\n{key: A}\n\n{comment: Verse 1}\n[A]Worthy of every song we could ever sing\n[D]Worthy of all the praise we could ever bring\n[F#m]Worthy of every breath we could ever breathe\n[D]We live for You\n\n{comment: Chorus}\n[A]Holy there is no one like You\n[D]There is none beside You\n[F#m]Open up my eyes in wonder\n[D]Show me who You are and fill me\n[A]With Your heart and lead me\n[D]In Your love to those around me"
+    },
+    {
+      "song_id": 18,
+      "key": "E",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: Great Are You Lord}\n{artist: All Sons & Daughters}\n{key: E}\n\n{comment: Verse}\n[E]You give life You are love\n[B]You bring light to the darkness\n[C#m]You give hope You restore\n[A]Every heart that is broken\n[E]And great are You [B]Lord\n\n{comment: Chorus}\n[E]It's Your breath in our lungs\n[B]So we pour out our praise\n[C#m]We pour out our praise\n[A]It's Your breath in our lungs\n[E]So we pour out our [B]praise to You [C#m]only [A]"
+    },
+    {
+      "song_id": 19,
+      "key": "G",
+      "source": "community",
+      "confidence": 90,
+      "chordpro_content": "{title: King of Kings}\n{artist: Hillsong Worship}\n{key: G}\n\n{comment: Verse 1}\n[G]In the darkness we were waiting\n[C]Without hope without light\n[Em]Till from Heaven You came running\n[D]There was mercy in Your eyes\n\n{comment: Chorus}\n[G]Praise the Father praise the Son\n[C]Praise the Spirit three in one\n[Em]God of glory majesty\n[D]Praise forever to the King of Kings"
+    },
+    {
+      "song_id": 20,
+      "key": "Bb",
+      "source": "community",
+      "confidence": 85,
+      "chordpro_content": "{title: Goodness of God}\n{artist: Bethel Music}\n{key: Bb}\n\n{comment: Verse 1}\n[Bb]I love You Lord\n[F/A]Oh Your mercy never fails me\n[Gm]All my days I've been held in Your hands\n[Eb]From the moment that I wake up\n[Bb/D]Until I lay my head\n[F]I will sing of the goodness of [Bb]God\n\n{comment: Chorus}\n[Bb]And all my life You have been faithful\n[F]And all my life You have been so so good\n[Gm]With every breath that I am able\n[Eb]I will sing of the [F]goodness of [Bb]God"
+    }
+  ]
+}
