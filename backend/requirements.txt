@@ -1,0 +1,39 @@
+# WorshipFlow Backend Requirements
+# Python 3.11+
+
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Validation
+pydantic
+pydantic-settings
+email-validator
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt>=4.0.0,<4.2.0
+greenlet
+
+# AI
+anthropic
+
+# Utilities
+python-dotenv
+httpx
+
+# Rate Limiting
+slowapi
+
+# Export
+python-pptx
+
+# Testing
+pytest
+pytest-asyncio
